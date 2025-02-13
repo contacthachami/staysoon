@@ -14,7 +14,7 @@ function App() {
       <div 
         className="absolute inset-0 z-0"
         style={{
-          backgroundImage: `url('/image4.jpg')`,
+          backgroundImage: `url('/image/image4.jpg')`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
         }}
